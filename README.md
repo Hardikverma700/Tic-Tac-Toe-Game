@@ -2,6 +2,8 @@
 
 ![Tic-Tac-Toe Screenshot]( https://github.com/Hardikverma700/Tic-Tac-Toe-Game/blob/main/Screenshot%20(264).png )
 
+## Link to Play :-
+https://hardikverma700.github.io/Tic-Tac-Toe-Game/
 ## Description
 
 Welcome to the **Tic-Tac-Toe** game, a classic and fun game built using **HTML**, **CSS**, and **JavaScript**. This project showcases fundamental web development skills, including DOM manipulations, loops, etc
