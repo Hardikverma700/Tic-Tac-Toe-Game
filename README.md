@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-![Tic-Tac-Toe Screenshot](screenshot.png)
+![Tic-Tac-Toe Screenshot]([screenshot.png](https://github.com/Hardikverma700/Tic-Tac-Toe-Game/blob/main/Screenshot%20(264).png))
 
 ## Description
 
